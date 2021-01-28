@@ -1,0 +1,11 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Coding Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zach McCain",
+  "license": "ISC"
+}
