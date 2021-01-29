@@ -1,0 +1,15 @@
+body {
+  padding: 100px;
+}
+
+.heading {
+  color: green;
+}
+
+.inner-div {
+  color: orangered;
+}
+
+.smile {
+  animation: backwards;
+}
